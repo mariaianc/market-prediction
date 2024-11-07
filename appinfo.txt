@@ -1,0 +1,2 @@
+This is the Market Prediction application.
+It predicts trends based on market data.
